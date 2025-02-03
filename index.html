@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LTSC Visual Report Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10.6.1/dist/mermaid.min.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="dashboard">
+        <div class="chart-card">
+            <h2>SWOT Mindmap</h2>
+            <div class="mindmap" id="swot-map"></div>
+        </div>
+
+        <div class="chart-card">
+            <h2>Token Distribution</h2>
+            <canvas id="tokenomicsChart"></canvas>
+        </div>
+
+        <div class="chart-card">
+            <h2>Technology Architecture</h2>
+            <div class="mermaid" id="tech-arch"></div>
+        </div>
+
+        <div class="chart-card">
+            <h2>Market Roadmap</h2>
+            <div class="mermaid" id="gantt-chart"></div>
+        </div>
+
+        <div class="chart-card">
+            <h2>Risk Matrix</h2>
+            <div id="risk-matrix"></div>
+        </div>
+
+        <div class="chart-card">
+            <h2>Geographic Expansion</h2>
+            <div class="mindmap" id="geo-map"></div>
+        </div>
+
+        <div class="chart-card">
+            <h2>Carbon Impact</h2>
+            <div class="mermaid" id="carbon-impact"></div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
