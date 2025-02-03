@@ -84,27 +84,8 @@ The carbon credit initiative is fundamental to LTSC's identity. This section del
 
 **Enhanced Recommendation:** Adopt and rigorously implement recognized standards like Gold Standard or Verra. Ensure independent third-party verification for all projects.
 
-```mermaid
-graph LR
-    A[Carbon Credit Initiative] --> B{Verification & Quality Assurance}
-    B --> C[Adopt Gold Standard/Verra (Minimum)]
-    B --> D[Independent 3rd Party Verification]
-    A --> E{Volume & Utilization}
-    E --> F[Validate 3B MT Claim]
-    E --> G[Transparent Utilization Reporting]
-    A --> H{Corporate Adoption Impact}
-    H --> I[Quantify Adoption Depth & Credit Volume]
+[![Carbon Credit Initiative](https://www.mermaidchart.com/raw/bb6e2f0c-3455-4f4b-965d-b8a78471b44d?theme=light&version=v0.1&format=svg)
 
-flowchart TD
-    A["Carbon Credit Initiative"] -->|Step 1| B{"Verification & Quality Assurance"}
-    B -->|Option 1| C["Adopt Gold Standard (Minimum)"]
-    B -->|Option 2| D["Independent 3rd Party Verification"]
-    A -->|Step 2| E{"Volume & Utilization"}
-    E -->|Action 1| F["Validate 3B MT Claim"]
-    E -->|Action 2| G["Transparent Utilization Reporting"]
-    A -->|Step 3| H{"Corporate Adoption Impact"}
-    H -->|Metric 1| I["Quantify Adoption Depth & Credit Volume"]
-```
 ## 5. Market Positioning Analysis
 
 Analyzing Letscoin's market position is crucial for understanding its competitive landscape and strategic direction. This section evaluates its standing against key competitors and assesses regulatory risks.
