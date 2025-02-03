@@ -142,31 +142,6 @@ quadrantChart
     quadrant-3 Opportunities
     quadrant-4 Threats
 ```   
-```mermaid
-flowchart TD
-    subgraph SWOT Analysis for Letscoin
-        subgraph Strengths
-            S1[Strong brand recognition]
-            S2[Innovative technology]
-            S3[Experienced team]
-            S4[High user trust]
-        end
-        subgraph Weaknesses
-            W1[Limited market share]
-            W2[High operational costs]
-            W3[Dependence on key partners]
-        end
-        subgraph Opportunities
-            O1[Expansion into new markets]
-            O2[Partnerships with financial institutions]
-            O3[Blockchain adoption growth]
-        end
-        subgraph Threats
-            T1[Regulatory challenges]
-            T2[Competition from established players]
-            T3[Market volatility]
-        end
-   ```
 *Infographic: Summarizing Letscoin's SWOT analysis in a visually digestible format.*
 
 ### Strengths
