@@ -54,13 +54,13 @@ pie title "Carbon Offset Claims"
 ```mermaid
 gantt
         title Project Timeline
-        dateFormat  YYYY-Q1
+        dateFormat  YYYY-MM-DD
         section Phase 1
-        Enhance Transparency    :2025-Q1, 6m
+        Enhance Transparency    :2025-01-01, 6m
         section Phase 2
-        Partnerships & Pilots   :2025-Q3, 6m
+        Partnerships & Pilots   :2025-07-01, 6m
         section Phase 3
-        Market Growth          :2026-Q1, 12m
+        Market Growth          :2026-01-01, 12m
 ```
 
 ## Risk Mitigation Matrix
